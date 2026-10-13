@@ -1,0 +1,5 @@
+-- SUPERSEDED: this file is obsolete and intentionally contains no schema definitions.
+-- The PayGate database is defined by versioned migrations in ./supabase/migrations/.
+-- Apply order: 20261013000001_init.sql -> 20261013000002_indexes.sql ->
+-- 20261013000003_functions.sql -> 20261013000004_rls.sql (then ./supabase/seed.sql for demo data).
+-- Run locally with: supabase db reset  (see docs/db-schema.md).
